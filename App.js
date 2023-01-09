@@ -1,13 +1,29 @@
+import { useEffect,useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-
+import BackgroundScreen from './app/screens/BackgroundScreen';
+import Tabs from './app/routes/Tabs';
+import StartScreen from './app/screens/StartScreen';
+import LoginScreen from './app/screens/LoginScreen';
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+  const [loading, setLoading] = useState(true);
+  useEffect(() => 
+  {
+    setTimeout(() => {
+      setLoading(false);
+    }, 5000);
+  }, []);
+  if(loading==false){
+    return (
+      <BackgroundScreen>
+      <Tabs />
+    </BackgroundScreen>
+    );
+  }
+  else{
+    <BackgroundScreen/>
+  }
+  
 }
 
 const styles = StyleSheet.create({

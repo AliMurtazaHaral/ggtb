@@ -1,0 +1,55 @@
+{
+      "items": [
+        {
+          "description": "Testing",
+          "name": "Menu for Good Taste By bia",
+          "entries": {
+            "count": 1,
+            "items": [
+                            {
+                "description": "",
+                "name": "Beverages",
+                "entries": {
+                  "count": 6,
+                  "items": [
+                    {
+                      "price": "Rs 650",
+                      "name": "1. Margirita 1Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 650",
+                      "name": "2. Peach 1Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 630",
+                      "name": "3. Mojito 1Pc",
+                      "description": ""
+                    },
+                  
+                    {
+                      "price": "Rs 550",
+                      "name": "4. Lemon Iced Tea",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 650",
+                      "name": "5. Vanilla Iced Latte ",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 200",
+                      "name": "6. Pepsi 1.5 Ltr",
+                      "description": ""
+                    }
+                   
+                    
+                  ]
+                }
+              }
+            ]
+          }
+        }
+    ]
+}

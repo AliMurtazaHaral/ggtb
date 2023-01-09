@@ -1,0 +1,378 @@
+{
+      "items": [
+        {
+          "description": "Testing",
+          "name": "Menu for Good Taste By bia",
+          "entries": {
+            "count": 9,
+            "items": [
+              {
+                "description": "Small bites",
+                "name": "Appetizers",
+                "entries": {
+                  "count": 7,
+                  "items": [
+                    {
+                      "price": "Rs 1050",
+                      "name": "1. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                        "price": "Rs 1250",
+                        "name": "2. Cheese Wonton 8 Pc",
+                        "description": ""
+                    },
+                    {
+                      "price": "Rs 850",
+                      "name": "3. Chicken Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "4. Fried Dumplings 8 Pc ",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "5. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "6. Streamed Dumpling 8 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "7. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    }                  
+                   
+                  ]
+                }
+              },
+              {
+                "description": "With fried noodles.",
+                "name": "Fried Rice",
+                "entries": {
+                  "count": 7,
+                  "items": [
+                    {
+                      "price": "Rs 1050",
+                      "name": "1. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                        "price": "Rs 1250",
+                        "name": "2. Cheese Wonton 8 Pc",
+                        "description": ""
+                    },
+                    {
+                      "price": "Rs 850",
+                      "name": "3. Chicken Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "4. Fried Dumplings 8 Pc ",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "5. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "6. Streamed Dumpling 8 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "7. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    }                  
+                  ]
+                }
+              },
+              {
+                "description": "",
+                "name": "Chicken",
+                "entries": {
+                  "count": 7,
+                  "items": [
+                     {
+                      "price": "Rs 1050",
+                      "name": "1. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                        "price": "Rs 1250",
+                        "name": "2. Cheese Wonton 8 Pc",
+                        "description": ""
+                    },
+                    {
+                      "price": "Rs 850",
+                      "name": "3. Chicken Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "4. Fried Dumplings 8 Pc ",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "5. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "6. Streamed Dumpling 8 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "7. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    }                  
+                  ]
+                }
+              },
+              {
+                "description": "With rice.",
+                "name": "Beef",
+                "entries": {
+                  "count": 7,
+                  "items": [
+                    {
+                      "price": "Rs 1050",
+                      "name": "1. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                        "price": "Rs 1250",
+                        "name": "2. Cheese Wonton 8 Pc",
+                        "description": ""
+                    },
+                    {
+                      "price": "Rs 850",
+                      "name": "3. Chicken Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "4. Fried Dumplings 8 Pc ",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "5. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "6. Streamed Dumpling 8 Pc",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1050",
+                      "name": "7. Shrimp Egg Roll 1 Pc",
+                      "description": ""
+                    }                  
+                  ]
+                }
+              },
+              {
+                "description": "No rice, soft noodles.",
+                "name": "Chow Mein",
+                "entries": {
+                  "count": 7,
+                  "items": [
+                    {
+                      "price": "Rs 1250",
+                      "name": "1. Vegetable Chow Mein",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1500",
+                      "name": "2. Chicken Chow Mein",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 2000",
+                      "name": "3. Fresh Shrimp Chow Mein",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1500",
+                      "name": "4. Beef Chow Mein",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 1700",
+                      "name": "5. House Special Chow Mein",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 3000",
+                      "name": "6. Crab Meat Chow Mein",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 3500",
+                      "name": "7. Lobster Chow Mein",
+                      "description": ""
+                    }
+                  ]
+                }
+              },
+               {
+                "description": "With rice.",
+                "name": "Seafood",
+                "entries": {
+                  "count": 7,
+                  "items": [
+                    {
+                      "price": "Rs 2500",
+                      "name": "1. Lobster Sauce",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 2500",
+                      "name": "2.Lobster Sauce Shrimp",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 2300",
+                      "name": "3. Bean Sprouts Shrimp ",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 2400",
+                      "name": "4. Shrimp with Mixed Veges",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 3400",
+                      "name": "5. Shrimp with Mushrooms",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 3000",
+                      "name": "6. Shrimp with Broccoli",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 4000",
+                      "name": "7. BB Sauce Shrimp ",
+                      "description": ""
+                    }                                     ]
+                }
+              },
+              {
+                "description": "With rice.",
+                "name": "Egg Foo Young",
+                "entries": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "price": "Rs 3400",
+                      "name": "1. Hot and Spicy Bean Curd",
+                      "description": "With meat or no meat."
+                    },
+                    {
+                      "price": "Rs 3500",
+                      "name": "2. Sauteed String Beans",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 2400",
+                      "name": "3. Sauteed Broccoli ",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 4590",
+                      "name": "4. Moo Shu Vegetable",
+                      "description": ""
+                    }
+                  ]
+                }
+              },
+              
+              {
+                "description": "",
+                "name": "Platters",
+                "entries": {
+                  "count": 6,
+                  "items": [
+                    {
+                      "price": "Rs 5000",
+                      "name": "1.Shrimp/Chicken",
+                      "description": ""
+                    },
+                                        {
+                      "price": "Rs 4500",
+                      "name": "2. Pepper Steak with Onion",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 5400",
+                      "name": "3. Shrimp with Mixed Veges",
+                      "description": ""
+                    },
+                   
+                    {
+                      "price": "Rs 6000",
+                      "name": "4. Beef with Broccoli",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 5600",
+                      "name": "5. Lobster Sauce Shrimp",
+                      "description": ""
+                    },
+                   
+                    {
+                      "price": "Rs 4500",
+                      "name": "6. Garlic Sauce Chicken ",
+                      "description": ""
+                     }
+                  ]
+                }
+              },
+              {
+                "description": "With rice.",
+                "name": "House Special",
+                "entries": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "price": "Rs 3400",
+                      "name": "1. Hot and Spicy Bean Curd",
+                      "description": "With meat or no meat."
+                    },
+                    {
+                      "price": "Rs 3500",
+                      "name": "2. Sauteed String Beans",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 2400",
+                      "name": "3. Sauteed Broccoli",
+                      "description": ""
+                    },
+                    {
+                      "price": "Rs 4590",
+                      "name": "4. Moo Shu Vegetable",
+                      "description": ""
+                    }
+                  ]
+                }
+              }
+              
+            ]
+          }
+        }
+    ]
+}
